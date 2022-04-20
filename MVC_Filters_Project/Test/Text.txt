@@ -1,0 +1,12 @@
+﻿
+On action Executing ->20-04-2022 11:23:28
+
+On action Executed ->20-04-2022 11:23:28
+On result Executing->Home->Index 20-04-2022 11:23:28
+On result Executed ->Home->Index 20-04-2022 11:23:29
+
+On action Executing ->20-04-2022 12:19:32
+
+On action Executed ->20-04-2022 12:19:33
+On result Executing->Home->Index 20-04-2022 12:19:33
+On result Executed ->Home->Index 20-04-2022 12:19:33
